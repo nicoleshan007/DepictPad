@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ripple="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgpic"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:id="@+id/head_layout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="#ff9c00"
+
+        >
+
+        <Button
+            android:id="@+id/btnback"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="16dp"
+            android:background="@drawable/home"
+
+            />
+        <TextView
+            android:id="@+id/tvhead"
+            android:layout_height="wrap_content"
+            android:layout_width="0dp"
+            android:layout_marginTop="24dp"
+            android:layout_weight="4"
+            android:gravity="center"
+            android:text="Depictpad"
+            android:textSize="24sp"
+            android:textColor="#ffffff"
+            android:layout_centerInParent="true"
+            />
+        <Button
+            android:id="@+id/btnsettings"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/user"
+            />
+    </LinearLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="#ffffff"
+        />
+    <LinearLayout
+        android:id="@+id/mid_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:id="@+id/btnwrite"
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:textSize="30dp"
+            android:layout_weight="1"
+            android:text="书写"
+            android:shadowColor="@color/grey"
+            android:background="@drawable/radius"
+            android:shadowRadius="10"
+            android:gravity="center"
+            />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="fill_parent"
+            android:background="#ffffff"
+            />
+        <Button
+            android:id="@+id/btnmatch"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:textSize="30dp"
+            android:text="匹配"
+            android:background="@drawable/radius"
+            android:shadowColor="@color/grey"
+            android:shadowRadius="20"/>
+    </LinearLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="#ffffff"
+        />
+    <LinearLayout
+        android:layout_height="30dp"
+        android:layout_width="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="以下为保存的图片"
+            android:textColor="#000000"
+            android:gravity="center">
+            </TextView>
+        </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/button_layout"
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_weight="3.5">
+
+        <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/lvpic">
+            </ListView>>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

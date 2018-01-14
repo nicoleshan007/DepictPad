@@ -1,0 +1,398 @@
+[
+    {
+        "outputFile": "C:\\Users\\lenovo\\Desktop\\Handwriting1227\\RippleView\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 47,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\Handwriting1227\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 47,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\Handwriting1227\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\Handwriting1227\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 730
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Android\\Handwriting1230\\RippleView\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 47,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "F:\\Android\\Handwriting1230\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 47,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "F:\\Android\\Handwriting1230\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "F:\\Android\\Handwriting1230\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 730
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\lenovo\\Desktop\\Handwriting1220\\RippleView\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 47,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\Handwriting1220\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 47,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\Handwriting1220\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\Handwriting1220\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 730
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "F:\\Android\\Handwriting1228\\RippleView\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 47,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "F:\\Android\\Handwriting1228\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 47,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "F:\\Android\\Handwriting1228\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "F:\\Android\\Handwriting1228\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 730
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\lenovo\\Desktop\\workspace\\Android\\RippleView\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 47,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\workspace\\Android\\RippleView\\app\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 47,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\workspace\\Android\\RippleView\\app\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\workspace\\Android\\RippleView\\app\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 730
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\lenovo\\Desktop\\Handwriting1228\\RippleView\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 47,
+                    "endOffset": 279
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\Handwriting1228\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 47,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 284,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\Handwriting1228\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "C:\\Users\\lenovo\\Desktop\\Handwriting1228\\RippleView\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 730
+                    }
+                }
+            }
+        ]
+    }
+]
